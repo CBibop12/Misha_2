@@ -60,15 +60,16 @@ a{
 }
 .main_sec{
     background-color: #a198f3;
+    padding-top: 50px;
 }
 .text-block{
     width: 33%;
 }
 .text_h2{
     color: white;
-    font-size: 40px;
+    font-size: 25px;
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 .text_p{
     color: white;
@@ -94,6 +95,7 @@ a{
     font-weight: bold;
     border-radius: 8px;
     transition: 0.5s;
+    margin-bottom: 10px;
 }
 .main_sec_button:hover{
     background-color: white;
@@ -259,4 +261,7 @@ textarea {
 footer{
     height: 50px;
     background-color: #5B4CD8;
+}
+.main_sec_ul li{
+    list-style-type: none;
 }
